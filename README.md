@@ -14,6 +14,8 @@
 
 🏢 I'm a currently studying for a <b>Master's degree</b> at <i>Universidade da Beira Interior</i> on the topic of <b>Computer Science and Engeneering</b>. 
 
+✏️ "Everything I enjoy using I want to learn"
+
 ## Statistics & Assessments
 
 <p align="center">
